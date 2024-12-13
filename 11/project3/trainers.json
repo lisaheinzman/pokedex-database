@@ -1,0 +1,178 @@
+[  
+      {
+         "trainerName": "Lisa",
+         "pokedex": 190,
+         "money": 156,
+         "trainerId" : "091232",
+         "pokemon": [
+         {
+            "pokemonName": "charmander",
+            "pokedexNum": 4,
+            "hp": 39,
+            "type": "fire"
+         },
+         {
+            "pokemonName": "Jigglypuff",
+            "pokedexNum": 39,
+            "hp": 36,
+            "type": "normal"
+         },
+         {
+            "pokemonName": "squirtle",
+            "pokedexNum": 7,
+            "hp": 44,
+            "type": "water"
+            }
+         ],
+         "items": [
+            {
+               "itemName": "coconut milk",
+               "itemType": "ingredient",
+               "quantity": 1,
+               "Cost": 950
+            },
+            {
+               "itemName": "energy powder",
+               "itemType": "medicine",
+               "quantity": 1,
+               "Cost": 500
+            },
+            {
+               "itemName": "antidote",
+               "itemType": "medicine",
+               "quantity": 3,
+               "Cost": 200
+            }
+         ]
+      },
+      {
+         "trainerName": "Ev",
+         "pokedex": 251,
+         "money": 8352,
+         "trainerId" : "208620",
+         "pokemon": [
+         {
+            "pokemonName": "rattata",
+            "pokedexNum": 19,
+            "hp": 30,
+            "type": "normal"
+         },
+         {
+            "pokemonName": "poliwag",
+            "pokedexNum": 60,
+            "hp": 20,
+            "type": "water"
+         },
+         {
+            "pokemonName": "Wortle",
+            "pokedexNum": 8,
+            "hp": 59,
+            "type": "water"
+            }
+         ],
+         "items": [
+            {
+               "itemName": "energy powder",
+               "itemType": "medicine",
+               "quantity": 3,
+               "Cost": 500
+            },
+            {
+               "itemName": "heal ball",
+               "itemType": "poke ball",
+               "quantity": 1,
+               "Cost": 300
+            }
+         ]
+      },
+      {
+         "trainerName": "Molly",
+         "pokedex": 120,
+         "money": 6732,
+         "trainerId" : "452301",
+         "pokemon": [
+         {
+            "pokemonName": "sandshrew",
+            "pokedexNum": 27,
+            "hp": 49,
+            "type": "ground"
+         },
+         {
+            "pokemonName": "charmander",
+            "pokedexNum": 4,
+            "hp": 39,
+            "type": "fire"
+         },
+         {
+            "pokemonName": "krabby",
+            "pokedexNum": 98,
+            "hp": 12,
+            "type": "water"
+         },
+         {
+            "pokemonName": "beedrill",
+            "pokedexNum": 15,
+            "hp": 9,
+            "type": "bug"
+            }
+         ],
+         "items": [
+            {
+               "itemName": "burn heal",
+               "itemType": "medicine",
+               "quantity": 2,
+               "Cost": 200
+            },
+            {
+               "itemName": "dusk ball",
+               "itemType": "poke ball",
+               "quantity": 1,
+               "Cost": 1000
+            }
+         ]
+      },
+      {
+         "trainerName": "Misty",
+         "pokedex": 400,
+         "pokemon": [
+         {
+            "pokemonName": "charmander",
+            "pokedexNum": 4,
+            "hp": 39,
+            "type": "fire"
+         },
+         {
+            "pokemonName": "Jigglypuff",
+            "pokedexNum": 39,
+            "hp": 36,
+            "type": "normal"
+         },
+         {
+            "pokemonName": "rattata",
+            "pokedexNum": 19,
+            "hp": 30,
+            "type": "normal"
+         },
+         {
+            "pokemonName": "squirtle",
+            "pokedexNum": 7,
+            "hp": 44,
+            "type": "water"
+            }
+         ],
+         "items": [
+            {
+               "itemName": "coconut milk",
+               "itemType": "ingredient",
+               "quantity": 1,
+               "Cost": 950
+            },
+            {
+               "itemName": "antidote",
+               "itemType": "medicine",
+               "quantity": 3,
+               "Cost": 200
+            }
+         ]
+      }
+   ]
